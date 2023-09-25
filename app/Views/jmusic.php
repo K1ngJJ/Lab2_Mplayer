@@ -1,14 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Music Management</title>
-    <!-- Include Bootstrap CSS -->
+    <title>MPlayer</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
-
 <body style="background-color: #efdecd;">
   <div class="container mt-5">
     <div class="card p-4">
@@ -17,17 +14,12 @@
       <input type="text" id="searchInput" class="form-control" placeholder="Search Music">
       <br>
   </div>
-
-
   <div class="container mt-2">
         <div class="mb-1">
     <span><a class="btn btn-success" href="/upload" style="background-color: #008080">Upload Music</a></span>
     <span><a class="btn btn-success" href="music/add_playlist" style="background-color: #319177">Create Playlist</a></span>
 </div>
     </div>
-
-
-    <!-- Playlists -->
     <table class="table table-striped">
       <thead>
           <tr>
@@ -55,17 +47,14 @@
               <?php endforeach; ?>
             <?php else: ?>
                         <tr>
-                             <td colspan="3" class="text-center">No music available.</td>
+                             <td colspan="3" class="text-center">invalid music!</td>
                          </tr>
           <?php endif; ?>
     </table>
 </div>
 </div>
 </div>
-
-
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </body>
-
 </html>
