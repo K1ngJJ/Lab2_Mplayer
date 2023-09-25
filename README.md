@@ -2,11 +2,11 @@
 
 ## Application Development and Emerging Technologies
 Media Player Output:
-![image](https://github.com/K1ngJJ/Lab2_Mplayer/assets/144676325/e5c2bb7d-9c0f-4519-944c-6d14c66f3a70)
-![image](https://github.com/K1ngJJ/Lab2_Mplayer/assets/144676325/37270b8d-07da-4ebb-b4b0-cb625c8913bc)
-![image](https://github.com/K1ngJJ/Lab2_Mplayer/assets/144676325/4706715f-cd71-40c0-85e5-7edbf94c5cda)
-![image](https://github.com/K1ngJJ/Lab2_Mplayer/assets/144676325/9a2fbed3-2f6d-43d5-afff-26bb0d27e51b)
-![image](https://github.com/K1ngJJ/Lab2_Mplayer/assets/144676325/ad928419-3ff7-42eb-a8ea-896aba1b52d9)
+![image](https://github.com/K1ngJJ/Lab2_Mplayer/assets/144676325/1005b26c-2016-4261-9777-47f45372ee58)
+![image](https://github.com/K1ngJJ/Lab2_Mplayer/assets/144676325/e9098a09-80d7-4c39-b04e-f3c68280d221)
+![image](https://github.com/K1ngJJ/Lab2_Mplayer/assets/144676325/93532ac9-d375-42d0-b1fa-fdd3fa8b4fc3)
+![image](https://github.com/K1ngJJ/Lab2_Mplayer/assets/144676325/2a617864-88d7-4e4e-992c-0eaaeff404d2)
+![image](https://github.com/K1ngJJ/Lab2_Mplayer/assets/144676325/7d6ab3ba-685d-4986-bb2a-cd97b132ebe8)
 
 Name: Pacheco, King JayJay A.
 
